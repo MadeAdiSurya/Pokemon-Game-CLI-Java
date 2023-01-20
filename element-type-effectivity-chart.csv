@@ -1,0 +1,4 @@
+source;target;effectivity
+FIRE;WATER;0.5
+NORMAL;FIRE;1
+FIRE;NORMAL;0.3
